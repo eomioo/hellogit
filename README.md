@@ -8,4 +8,5 @@ This repo is used to practice Python3.
 4. prime_factorization.py: [Prime factorization](https://www.calculatorsoup.com/calculators/math/prime-factors.php#:~:text=What%20is%20Prime%20Factorization%3F,also%20known%20as%20prime%20decomposition.)
 5. next_prime.py: [Prime numbers](https://mathcs.clarku.edu/~djoyce/numbers/primes.html)
 6. alarm_clock.py: [Alart Clock](https://data-flair.training/blogs/alarm-clock-python/)
-7. 
+7. hangman.py:[Hangman game](https://en.wikipedia.org/wiki/Hangman_(game))
+8. 
