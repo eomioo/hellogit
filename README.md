@@ -9,4 +9,5 @@ This repo is used to practice Python3.
 5. next_prime.py: [Prime numbers](https://mathcs.clarku.edu/~djoyce/numbers/primes.html)
 6. alarm_clock.py: [Alart Clock](https://data-flair.training/blogs/alarm-clock-python/)
 7. hangman.py:[Hangman game](https://en.wikipedia.org/wiki/Hangman_(game))
-8. 
+8. rock_paper_scissors.py[Rock paper scissors game](https://en.wikipedia.org/wiki/Rock_paper_scissors)
+9. 
